@@ -1,1 +1,1 @@
-# totient
+# Online Totient Calculator
